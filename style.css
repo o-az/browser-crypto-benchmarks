@@ -1,0 +1,18 @@
+/* Dark terminal‑style theme */
+body {
+  background: #0d0d0d;
+  color: #c5c8c6;
+  font-family: 'Source Code Pro', monospace;
+  margin: 2rem;
+}
+h1 { color: #66d9ef; }
+#controls { margin-bottom: 1rem; }
+button {
+  background: #282a36;
+  color: #f8f8f2;
+  border: 1px solid #6272a4;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+button:hover { background: #44475a; }
+pre { background: #21222c; padding: 1rem; overflow: auto; }
